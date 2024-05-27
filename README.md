@@ -72,3 +72,11 @@ Sign up at [FreeCurrencyAPI](https://app.freecurrencyapi.com/) and obtain your f
 ---
 
 By following these steps, you can easily install and configure the multi-currency plugin for your nxtbn Commerce platform, ensuring seamless currency management for your e-commerce site.
+
+
+# nxtbn Disclaimer
+
+nxtbn does not endorse any specific platform, third-party service, API, payment gateway, or cloud platform. To provide merchants with the freedom to scale and select third-party services according to their preferences, nxtbn is designed with a pluggable architecture. We have developed numerous plugins for payment gateways, currency management, general purposes, CRM, automation, and integrations with various third-party APIs. However, nxtbn is not affiliated or associated with any of these third parties.
+
+Most of the plugins developed by nxtbn are intended for demonstration purposes, enabling developers to create custom plugins tailored to their specific needs. With infinite possibilities, nxtbn does not impose limitations on customization, scalability, or platform choice. This ensures that users have the utmost flexibility to adapt and grow their systems according to their unique requirements.
+
