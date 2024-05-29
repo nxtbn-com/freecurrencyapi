@@ -10,7 +10,7 @@
 
 ### Manual Installation
 1. Extract the zip file.
-2. Place the extracted files in `nxtbn.plugin.source`.
+2. Place the extracted files in `nxtbn.plugin.sources`.
 
 The plugin will be automatically registered as a currency backend, and your site will be ready for multi-currency support.
 
