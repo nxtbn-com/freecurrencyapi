@@ -32,6 +32,9 @@ In the payload, send:
 
 **Note:** nxtbn is not affiliated with [https://app.freecurrencyapi.com/](https://app.freecurrencyapi.com/) and does not recommend any specific currency API. nxtbn follows a philosophy of freedom, allowing you to choose any currency API and write your own currency backend. For more details on creating your own currency backend, refer to the nxtbn documentation. https://docs.nxtbn.com/
 
+the freecurrencyapi.com supports very limited currency, You can find other api that support currency of your choice
+freecurrencyapi.com supported currency: https://freecurrencyapi.com/docs/currency-list
+
 ## Enabling FreeCurrencyAPI Backend
 
 ### Environment Configuration
